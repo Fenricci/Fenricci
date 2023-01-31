@@ -34,3 +34,7 @@
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://web.telegram.org/z/#470066116)
 [![Header](https://img.shields.io/badge/Вконтакте-090909?style=for-the-badge&logo=vk&logoColor=11a0bd)](https://vk.com//blvck_888)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/%D0%B2%D1%83%D0%B3%D0%B0%D1%80-%D0%B3%D1%83%D1%81%D0%B5%D0%B9%D0%BD%D0%BE%D0%B2-4b50aa246)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenricci&show_icons=true&theme=tokyonight)
+)](https://github.com/anuraghazra/github-readme-stats)
