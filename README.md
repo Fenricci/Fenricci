@@ -22,6 +22,7 @@
 ![Header](https://img.shields.io/badge/Selenium-090909?style=for-the-badge&logo=selenium&logoColor=0ecc1e)
 ![Header](https://img.shields.io/badge/Pytest-090909?style=for-the-badge&logo=Pytest&logoColor=0e9dcc)
 ![Header](https://img.shields.io/badge/Linux-090909?style=for-the-badge&logo=linux&logoColor=9fbd0d)
+![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=testrail&logoColor=71b556)
 
 ### Testing Documentation
 - [Test-Plan](https://docs.google.com/document/d/1lDzIE44UALDdIDLQHZ7ntRAbVDxg6EjA/edit?usp=share_link&ouid=110391240703001770853&rtpof=true&sd=true)
@@ -37,4 +38,4 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenricci&show_icons=true&theme=tokyonight)
-)](https://github.com/anuraghazra/github-readme-stats)
+](https://github.com/anuraghazra/github-readme-stats)
