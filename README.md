@@ -6,6 +6,7 @@
 [Link to my CV](https://drive.google.com/file/d/1LUzdPIznutV3cvuCo63Y4jdjP82dVLCK/view?usp=share_link)
 
 ### Autotests
+- [Project for API testing](https://github.com/Fenricci/Api_project)
 - [Stepik Test Project](https://github.com/Fenricci/final_test_stepik)
 - [Test different languges](https://github.com/Fenricci/test_different_languages)
 - [My stepik training](https://github.com/Fenricci/auto_tests_stepik_course)
