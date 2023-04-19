@@ -3,7 +3,7 @@
 ## I'm a beginner Automation QA Engineer
 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1LUzdPIznutV3cvuCo63Y4jdjP82dVLCK/view?usp=share_link)
+[Link to my CV](https://drive.google.com/file/d/1387YQ3mS0IbIYvvBRjJAHwYUx9mHHPKI/view?usp=share_link)
 
 ### Autotests
 - [Project for API testing](https://github.com/Fenricci/Api_project)
